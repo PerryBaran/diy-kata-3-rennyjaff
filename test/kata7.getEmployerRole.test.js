@@ -10,7 +10,7 @@ describe("getEmployerRole", () => {
       },
       {
         name: "Jenny",
-
+ 
         role: "Sales Associate",
       },
       {
