@@ -14,7 +14,7 @@ describe("joinNames", () => {
 
         {
           name: "Maggie",
-        }
+        },
       ])
     ).toBe("Bart, Lisa & Maggie");
     expect(
